@@ -1,2 +1,4 @@
 # Trinity-Concurrent-Systems
-The programs I wrote during the module "Concurrent Systems" at Trinity
+This repository contains programs I wrote during the module "Concurrent Systems" at Trinity College Dublin
+
+I had this module in Hillary Term, Junior Sophister Year (Semester 2 in Year 3)
